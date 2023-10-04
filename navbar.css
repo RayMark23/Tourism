@@ -1,0 +1,14 @@
+nav.navbar{
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+.navbar-brand {
+  color: rgb(201, 138, 61) !important;
+  font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+
+.container-fluid {
+  background-color: rgb(187, 242, 242) !important;
+  padding: 0 2.5% !important;
+}
