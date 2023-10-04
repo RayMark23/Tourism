@@ -1,6 +1,16 @@
+
+
 nav.navbar{
     padding-top: 0 !important;
     padding-bottom: 0 !important;
+    height: 50px !important;
+    width: auto !important;
+}
+
+.container-fluid {
+  background-color: rgb(187, 242, 242) !important;
+  padding: 0 2.5% !important;
+  height: 50px !important;
 }
 
 .navbar-brand {
@@ -8,7 +18,10 @@ nav.navbar{
   font-family: Georgia, 'Times New Roman', Times, serif !important;
 }
 
-.container-fluid {
-  background-color: rgb(187, 242, 242) !important;
-  padding: 0 2.5% !important;
+a.navbar-brand{
+  padding: 5px !important;
+}
+
+ul.navbar-nav{
+  gap: 10px !important;
 }
